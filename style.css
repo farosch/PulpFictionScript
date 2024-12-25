@@ -1,6 +1,7 @@
 body {
 	background-color: powderblue;
 	font-family: "Lucida Console", Courier, monospace;
+	font-size: 400%;
 }
 
 .title{
@@ -10,6 +11,7 @@ body {
 .actor{
 	text-align: center;
 	font-weight: bold;
+	margin-top: 4%;
 }
 
 .spoken{
@@ -24,14 +26,21 @@ body {
 
 .text{
 	text-align: left;
+	margin-top: 4%;
 }
 
 .annotation{
 	text-align: right;
 	font-style: italic;
+	margin-top: 4%;
 }
 
 .location{
 	text-align: left;
 	font-weight: bold;
+}
+
+p {
+	margin: 0;
+	padding: 0;
 }
