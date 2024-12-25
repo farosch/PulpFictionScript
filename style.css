@@ -1,0 +1,37 @@
+body {
+	background-color: powderblue;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+.title{
+	text-align: center;
+}
+
+.actor{
+	text-align: center;
+	font-weight: bold;
+}
+
+.spoken{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.scene{
+	text-align: center;
+	font-style: italic;
+}
+
+.text{
+	text-align: left;
+}
+
+.annotation{
+	text-align: right;
+	font-style: italic;
+}
+
+.location{
+	text-align: left;
+	font-weight: bold;
+}
