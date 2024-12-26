@@ -2,4 +2,4 @@
 
 A HTML version of the script to the movie "Pulp Fiction" by Quentin Tarrantino.
 
-![screenshot](preview.png)
+![screenshot](preview.png | width=803)
